@@ -6,4 +6,5 @@
             <class name="TestNG"/>
         </classes>
     </test>
+
 </suite>
